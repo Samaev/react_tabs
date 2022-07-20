@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAIC,oBAGC,WAAY,CACb,UAGC,iBAAkB","file":"main.8e3971f8.chunk.css","sourcesContent":["// Put styles here\n\n.list {\n  width: 450px;\n}\n\n.notification {\n  width: 450px;\n}\n\n.cooltext {\n  text-align: center;\n}\n"]}
